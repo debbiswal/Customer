@@ -1,0 +1,3 @@
+[submodule "TextFileLogger"]
+	path = TextFileLogger
+	url = https://github.com/debbiswal/TextFileLogger.git
